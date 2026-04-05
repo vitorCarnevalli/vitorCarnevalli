@@ -1,6 +1,9 @@
-# Olá, eu sou o Vitor Carnevalli 👋
+# Olá, eu sou o Vitor Carnevalli 
 
-Estudante de Sistemas de Informação na PUC Campinas, estagiário de TI na UNICAMP e desenvolvedor fullstack em formação. Apaixonado por resolver problemas reais com tecnologia.
+Busco oportunidade como Estagiário ou Desenvolvedor Júnior em Desenvolvimento 
+de Software, com interesse em atuar nas áreas de Front-end, Back-end ou Full Stack. 
+Possuo experiência prática com JavaScript, React, Python e Java, além de vivência 
+em suporte de TI e testes de sistemas em ambiente universitário.
 
 ---
 
@@ -21,9 +24,9 @@ Estudante de Sistemas de Informação na PUC Campinas, estagiário de TI na UNIC
 
 ---
 
-## 📌 Projeto em destaque
+## Projeto em destaque
 
-### 🦺 Sistema de Monitoramento de EPIs com IA
+### Sistema de Monitoramento de EPIs com IA
 Projeto acadêmico em equipe desenvolvido na PUC Campinas voltado à segurança do trabalho na construção civil.
 - Visão computacional com Python para detectar EPIs em tempo real
 - Painel web em React para gestores acompanharem infrações e relatórios
@@ -32,20 +35,20 @@ Projeto acadêmico em equipe desenvolvido na PUC Campinas voltado à segurança 
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 **Estagiário de Suporte de TI — UNICAMP (FEF)** *(nov/2024 – atual)*
 Suporte técnico a professores e funcionários, manutenção de hardware/software e participação como beta tester de novos sistemas institucionais.
 
 ---
 
-## 🎓 Formação
+## Formação
 
 Sistemas de Informação — PUC Campinas *(conclusão: dez/2027)*
 
 ---
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-carnevalli-de-almeida)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Carnevalli22@gmail.com)
