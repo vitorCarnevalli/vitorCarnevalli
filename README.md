@@ -1,8 +1,7 @@
 # Olá, eu sou o Vitor Carnevalli de Almeida
 
-Busco oportunidade como Estagiário ou Desenvolvedor Júnior em Desenvolvimento 
-de Software, com interesse em atuar nas áreas de Front-end, Back-end ou Full Stack. 
-Possuo experiência prática com JavaScript, React, Python e Java, além de vivência 
+Busco oportunidade como Estagiário ou Desenvolvedor Júnior em, com interesse em atuar nas áreas de Front-end, Back-end ou Full Stack. 
+Possuo experiência prática com JavaScript, React e Python, além de vivência 
 em suporte de TI e testes de sistemas em ambiente universitário.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-carnevalli-de-almeida)
