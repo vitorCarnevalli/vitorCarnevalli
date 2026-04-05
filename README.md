@@ -40,7 +40,7 @@ Projeto acadêmico em equipe desenvolvido na PUC Campinas voltado à segurança 
 - Stack: Python · React · React Native · MongoDB · PostgreSQL
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=vitorCarnevalli&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vitorCarnevalli&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ## Experiência
